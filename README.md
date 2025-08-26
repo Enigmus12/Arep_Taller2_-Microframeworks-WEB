@@ -54,6 +54,7 @@ Pasos para ejecutar el servidor en tu entorno local:
 
 ## Estructura del proyecto
 
+```plaintext
 src/
  └── main/java/co/edu/escuelaing/
      ├── httpserver/
@@ -70,6 +71,8 @@ webroot/
      ├── style.css
      ├── script.js
      └── images/
+```
+
 
 
 
