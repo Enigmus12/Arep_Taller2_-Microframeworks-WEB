@@ -1,0 +1,11 @@
+# Ignorar el target que está dentro de httpserver
+httpserver/target/
+
+# Archivos temporales
+*.log
+*.class
+
+# Configuración de IDEs
+.idea/
+*.iml
+.vscode/
