@@ -1,5 +1,5 @@
 # Ignorar el target que está dentro de httpserver
-httpserver/target/
+/target/
 
 # Archivos temporales
 *.log
