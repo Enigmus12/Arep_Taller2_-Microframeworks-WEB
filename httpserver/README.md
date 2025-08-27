@@ -65,6 +65,12 @@ src/
      └── webexample/
          └── WebApplication.java
 
+ └── test/java/co/edu/escuelaing/
+    └── httpserver/
+        ├── HttpRequestTest.java
+        ├── HttpResponseTest.java
+        └── HttpServerTest.java
+
 webroot/
  └── public/
      ├── index.html
@@ -85,6 +91,11 @@ webroot/
     http://localhost:8080/sum?x=10&y=5 
 
     http://localhost:8080/pi
+
+## Cómo correr los tests
+    * mvn test
+
+    ![alt text](img/image.png)
 
 
 ## Autor
