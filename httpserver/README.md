@@ -95,7 +95,7 @@ webroot/
 ## Cómo correr los tests
     * mvn test
 
-    ![alt text](img/image.png)
+   ![alt text](img/image.png)
 
 
 ## Autor
